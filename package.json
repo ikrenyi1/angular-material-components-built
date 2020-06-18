@@ -1,0 +1,11 @@
+{
+  "name": "angular-material-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10.41179a653e69add51ea0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
